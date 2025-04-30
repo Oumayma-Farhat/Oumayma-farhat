@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="ansible logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
