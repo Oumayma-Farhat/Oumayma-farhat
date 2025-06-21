@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate **DevOps Engineer** with a strong focus on cloud infrastructure, CI/CD pipelines, and automation.</h3>
+### I'm a passionate **DevOps Engineer** with a strong focus on cloud infrastructure, CI/CD pipelines, and automation.
 
 ###
 
